@@ -1,2 +1,11 @@
-# gestor-tareas-c
-un gestor de tareas en el cual puedes anadir, marcar y eliminar tareas
+# Gestor de Tareas en C
+
+Mi primer proyecto en C.
+
+## Compilacion
+
+gcc src/main.c src/tareas.c -o gestor
+
+## Ejecucion
+
+./gestor
